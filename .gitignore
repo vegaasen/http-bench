@@ -1,6 +1,6 @@
 # Project files
-.idea*
-/target*
+/.idea/*
+/target/*
 
 *.class
 
